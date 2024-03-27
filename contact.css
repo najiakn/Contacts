@@ -4,6 +4,7 @@
 .section1{
     width: 30%;
     border: 2px black solid;
+    height: 100%;
 }
 .head{
     display: flex;
@@ -22,9 +23,10 @@
 }
 #recherch_inpt{
 margin: 10px;
-width: 340px;
+
 height: 23px;
-position: relative;
+
+
 border-radius: 10px;
 }
 .search{
@@ -38,6 +40,9 @@ border-radius: 10px;
 }
 .pers{
     display: flex;
+}
+.pers:hover{
+    background-color: ghostwhite;
 }
 .pers_nom{
     font-size: 16px;
