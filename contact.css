@@ -1,0 +1,78 @@
+.main{
+    display: flex;
+}
+.section1{
+    width: 30%;
+    border: 2px black solid;
+}
+.head{
+    display: flex;
+}
+
+#text_logo{
+    font-size: 25px;
+    
+}
+.logo{
+    margin-right: 180px;
+    
+}
+.add{
+    margin-top: 20px;
+}
+#recherch_inpt{
+margin: 10px;
+width: 340px;
+height: 23px;
+position: relative;
+border-radius: 10px;
+}
+.search{
+    margin-top: 13px;
+}
+.pers_img{
+    width: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    margin-top: 13px;
+}
+.pers{
+    display: flex;
+}
+.pers_nom{
+    font-size: 16px;
+    font-weight: bold;
+}
+.pers_desc{
+    font-size: 13px;
+    margin-top: -15px;
+}
+.pers_info{
+    margin-top: 3px;
+}
+.logo{
+    display: flex;
+    margin-top: 20px;
+}
+.profil{
+    display: flex;
+}
+.profil_img{
+    width: 150px;
+    border-radius: 50%;
+}
+.profil{
+    margin-top: 100px;
+ margin-left: 200px;
+
+}
+.profil_info{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.profil_nom{
+    font-size: 30px;
+}
+.profil_desc{
+    margin-top: 4px;
+}
